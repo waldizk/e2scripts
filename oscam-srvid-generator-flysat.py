@@ -13,7 +13,7 @@ output_file = '/tmp/oscam.srvid'
 
 packages = {
     'https://flysat.com/en/package/skylink-1/astra-3b'           :   '0D96,0624' ,
-    'https://flysat.com/en/package/sky-deutschland-2/astra-19'   :   '1833,1834,1702,1722,09C4,09AF' ,
+    'https://flysat.com/en/package/sky-deutschland-2/astra-19'   :   '1833,1834,1702,1722,098D,09AF' ,
 #   'https://flysat.com/en/package/antiksat-1/eutelsat-16a'      :   '0B00' ,
 #   'https://flysat.com/en/package/maxtv-sat-1/eutelsat-16a'     :   '1830' ,
 }
